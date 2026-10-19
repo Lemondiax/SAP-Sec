@@ -1,0 +1,6 @@
+2. El Desafío / Contexto (Situation & Task)
+
+El Escenario: Versión del sistema (ej: SAP S/4HANA, SAP ECC), cantidad de usuarios y alcance geográfico.
+La Problemática: ¿Qué estaba mal? (Ej: Roles "Sap" o sobre-asignados, transacciones críticas en manos de usuarios finales, 
+fallas en auditorías externas, procesos de alta de usuarios manuales y lentos).
+El Objetivo: Qué metas específicas te propusiste alcanzar.
